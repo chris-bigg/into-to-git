@@ -1,1 +1,2 @@
-consol.log("Test");
+console.log("Test");
+console.log("Testy testerson!");
